@@ -1,2 +1,2 @@
-# PythonCC-EDA
-Github page to collaborate on EDA case
+# PythonCC
+Github page for Bright Cape's Python Competence Center
